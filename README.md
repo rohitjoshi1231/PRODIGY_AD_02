@@ -17,7 +17,7 @@ This Android application allows multiple users to manage their tasks efficiently
 - **Jetpack Compose**: For building the UI.
 
 ## Screenshots
-
+!["ui_1"](images/TODO_0.png)
 !["ui_1"](images/TODO_1.png)
 !["ui_2"](images/TODO_2.png)
 !["ui_3"](images/TODO_3.png)
